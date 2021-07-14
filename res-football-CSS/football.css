@@ -295,6 +295,7 @@ button {
   }
 
   .all-players {
+    display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
   .middle-section {
@@ -337,6 +338,7 @@ button {
   }
 
   .all-players {
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
   .middle-section {
