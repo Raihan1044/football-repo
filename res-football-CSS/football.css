@@ -295,13 +295,13 @@ button {
   }
 
   .all-players {
-    display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
   .middle-section {
     flex-direction: column;
     width: 100%;
     height: auto;
+    line-height: 80px;
   }
   .search-section {
     flex-direction: column;
